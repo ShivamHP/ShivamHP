@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivamPachchigar14112
-- 👀 I’m interested in havinf fun
+- 👀 I’m interested in having fun
 - 🌱 I’m currently learning anything related to computers
-- 💞️ I’m looking to collaborate on not sure
+- 💞️ I’m looking to collaborate on flutter app development
 - 📫 How to reach me : Email: shivampachchigar14112@gmail.com
 
 <!---
