@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivamPachchigar14112
-- 👀 I’m interested in having fun
+- 👀 I’m interested in app development - Native Android and Flutter
 - 🌱 I’m currently learning anything related to computers
 - 💞️ I’m looking to collaborate on flutter app development
 - 📫 How to reach me : Email: shivampachchigar14112@gmail.com
